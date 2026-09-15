@@ -169,8 +169,8 @@ public:
     // Badan Pengurus Harian Inti
     std::string ketua;
     std::string wakil_ketua;
-    std::string sekretaris;
-    std::string bendahara;
+    std::string sekretaris_umum;
+    std::string bendahara_umum;
 
     // Bidang I: Akademik
     struct BidangAkademik {
@@ -180,8 +180,8 @@ public:
 
     // Bidang II: Minat dan Bakat
     struct BidangMinatBakat {
-        DivisiOlahraga turnamen_positif;
-        DivisiPSDM komunitas_dan_softskill;
+        DivisiOlahraga positif;
+        DivisiPSDM komunitas_olahraga_dan_esports;
     } bidang_2;
 
     // Bidang III: Kesejahteraan Mahasiswa
@@ -194,7 +194,7 @@ public:
     struct BidangHumasInventaris {
         DivisiHumas studi_banding;
         DivisiMediaKreatif publikasi_dan_konten;
-        DivisiInventaris sarana_dan_gedung;
+        DivisiInventaris sarana_dan_ruangan;
     } bidang_4;
 };
             </code></pre>
@@ -221,25 +221,25 @@ public:
 
         <div style="text-align: left;">
           <span class="badge badge-sky">Bidang I</span>
-          <h3 style="font-size: 2.1rem; margin-top: 8px; margin-bottom: 6px;">Pendidikan & <span class="text-gold">Penelitian</span></h3>
+          <h3 style="font-size: 2.1rem; margin-top: 8px; margin-bottom: 6px;"> <span class="text-gold">Akademik</span></h3>
           <p style="margin-bottom: 24px; color: var(--text-muted); font-size: 1.05rem;">
             Mengasah kompetensi teknis teknologi informasi dan membina kepemimpinan organisasi yang terstruktur.
           </p>
 
           <div class="cards-grid" style="grid-template-columns: repeat(2, 1fr);">
             <div class="card division-card">
-              <h4 style="color: var(--imatika-sky);"><span class="badge badge-sky">Divisi 1</span> Divisi Penelitian</h4>
-              <p style="color: var(--text-main); font-weight: 600; margin-bottom: 8px;">Program Kerja Unggulan: Techno IT</p>
+              <h4 style="color: var(--imatika-sky);">Divisi Penelitian</h4>
+              <p style="color: var(--text-main); font-weight: 600; margin-bottom: 8px;">Program Kerja: Techno IT</p>
               <ul>
-                <li>Workshop pemrograman dan eksplorasi teknologi terkini (Web, Mobile, Cloud, AI).</li>
-                <li>Pengenalan metode penelitian dasar komputer dan penulisan karya ilmiah.</li>
-                <li>Klinik coding pendampingan praktikum lab dan pembinaan kompetisi IT nasional.</li>
+                <li>Bimbingan intensif dan hands-on experience proyek teknologi langsung dari mentor berpengalaman.</li>
+                <li>Pengembangan skill terapan, perluasan relasi, serta perolehan sertifikat resmi dan poin SKPI.</li>
+                <li>Kompetisi inovasi teknologi, desain poster, dan kolaborasi antusias IT</li>
               </ul>
             </div>
 
             <div class="card division-card gold-border">
-              <h4 style="color: var(--imatika-gold);"><span class="badge badge-gold">Divisi 2</span> Divisi Pengajaran & Kaderisasi</h4>
-              <p style="color: var(--text-main); font-weight: 600; margin-bottom: 8px;">Program Kerja Unggulan: Kelas Organisasi</p>
+              <h4 style="color: var(--imatika-gold);">Divisi Pengajaran & Kaderisasi</h4>
+              <p style="color: var(--text-main); font-weight: 600; margin-bottom: 8px;">Program Kerja: Kelas Organisasi</p>
               <ul>
                 <li>Pelatihan kepemimpinan dan manajemen organisasi mahasiswa IT.</li>
                 <li>Tata cara persidangan mahasiswa, musyawarah, dan penyusunan konsensus.</li>
@@ -264,29 +264,29 @@ public:
 
         <div style="text-align: left;">
           <span class="badge badge-gold">Bidang II</span>
-          <h3 style="font-size: 2.1rem; margin-top: 8px; margin-bottom: 6px;">Minat, Bakat & <span class="text-sky">Potensi Mahasiswa</span></h3>
+          <h3 style="font-size: 2.1rem; margin-top: 8px; margin-bottom: 6px;"><span class="text-sky">Minat dan Bakat</span></h3>
           <p style="margin-bottom: 24px; color: var(--text-muted); font-size: 1.05rem;">
             Menjaga kebugaran fisik, menyalurkan kegemaran, dan mempererat keakraban lintas angkatan.
           </p>
 
           <div class="cards-grid" style="grid-template-columns: repeat(2, 1fr);">
             <div class="card division-card gold-border">
-              <h4 style="color: var(--imatika-gold);"><span class="badge badge-gold">Divisi 1</span> Divisi Olahraga</h4>
-              <p style="color: var(--text-main); font-weight: 600; margin-bottom: 8px;">Program Kerja Unggulan: POSITIF</p>
+              <h4 style="color: var(--imatika-gold);">Divisi Olahraga</h4>
+              <p style="color: var(--text-main); font-weight: 600; margin-bottom: 8px;">Program Kerja: POSITIF</p>
               <ul>
                 <li>Pekan Olahraga Mahasiswa Teknik Informatika (turnamen olahraga internal tahunan).</li>
-                <li>Kompetisi futsal, basket, bulu tangkis, dan catur antar-angkatan.</li>
+                <li>Kompetisi futsal, basket, bulu tangkis, voli, serta berbagai macam esports antar-angkatan.</li>
                 <li>Sarana menyegarkan pikiran di sela jadwal kuliah dan menumbuhkan sportivitas.</li>
               </ul>
             </div>
 
             <div class="card division-card">
-              <h4 style="color: var(--imatika-sky);"><span class="badge badge-sky">Divisi 2</span> Divisi PSDM</h4>
-              <p style="color: var(--text-main); font-weight: 600; margin-bottom: 8px;">Program Kerja Unggulan: Komunitas & E-Sports</p>
+              <h4 style="color: var(--imatika-sky);">Divisi PSDM</h4>
+              <p style="color: var(--text-main); font-weight: 600; margin-bottom: 8px;">Program Kerja: Komunitas Olahraga & E-Sports</p>
               <ul>
                 <li>Wadah mabar kompetitif dan rekreasi (Mobile Legends, Valorant, dll).</li>
-                <li>Penyaluran minat seni, fotografi, musik, dan hobi kreatif mahasiswa IT.</li>
-                <li>Pertemuan santai rutin untuk mempererat solidaritas tanpa batasan senioritas.</li>
+                <li>Penyaluran minat seni, olahraga, musik, dan hobi kreatif mahasiswa IT.</li>
+                <li>Pertemuan rutin untuk meningkatkan keterampilan dan mempererat solidaritas.</li>
               </ul>
             </div>
           </div>
@@ -307,15 +307,15 @@ public:
 
         <div style="text-align: left;">
           <span class="badge badge-sky">Bidang III</span>
-          <h3 style="font-size: 2.1rem; margin-top: 8px; margin-bottom: 6px;">Kesejahteraan & <span class="text-gold">Kepedulian Sosial</span></h3>
+          <h3 style="font-size: 2.1rem; margin-top: 8px; margin-bottom: 6px;"><span class="text-gold">Kesejahteraan Mahasiswa</span></h3>
           <p style="margin-bottom: 24px; color: var(--text-muted); font-size: 1.05rem;">
             Menumbuhkan kepekaan sosial dan memelihara keharmonisan serta silaturahmi seluruh civitas IT.
           </p>
 
           <div class="cards-grid" style="grid-template-columns: repeat(2, 1fr);">
             <div class="card division-card">
-              <h4 style="color: var(--imatika-sky);"><span class="badge badge-sky">Divisi 1</span> Divisi Sosial</h4>
-              <p style="color: var(--text-main); font-weight: 600; margin-bottom: 8px;">Program Kerja Unggulan: Pengabdian Masyarakat</p>
+              <h4 style="color: var(--imatika-sky);">Divisi Sosial</h4>
+              <p style="color: var(--text-main); font-weight: 600; margin-bottom: 8px;">Program Kerja: Pengabdian Masyarakat</p>
               <ul>
                 <li>Aksi nyata mahasiswa IT berbagi manfaat untuk masyarakat di sekitar lingkungan kampus.</li>
                 <li>Edukasi literasi digital, keamanan berinternet, dan pengenalan komputer untuk sekolah sekitar.</li>
@@ -324,8 +324,8 @@ public:
             </div>
 
             <div class="card division-card gold-border">
-              <h4 style="color: var(--imatika-gold);"><span class="badge badge-gold">Divisi 2</span> Divisi Kerohanian</h4>
-              <p style="color: var(--text-main); font-weight: 600; margin-bottom: 8px;">Program Kerja Unggulan: Buka Bersama & Kebersamaan</p>
+              <h4 style="color: var(--imatika-gold);">Divisi Kerohanian</h4>
+              <p style="color: var(--text-main); font-weight: 600; margin-bottom: 8px;">Program Kerja: Buka Bersama & Kebersamaan</p>
               <ul>
                 <li>Silaturahmi lintas angkatan dan alumni di bulan suci Ramadan.</li>
                 <li>Peringatan hari besar keagamaan dengan mengedepankan nilai toleransi dan saling menghormati.</li>
@@ -350,23 +350,22 @@ public:
 
         <div style="text-align: left;">
           <span class="badge badge-gold">Bidang IV</span>
-          <h3 style="font-size: 2.1rem; margin-top: 8px; margin-bottom: 6px;">Humas, Media & <span class="text-sky">Inventaris</span></h3>
+          <h3 style="font-size: 2.1rem; margin-top: 8px; margin-bottom: 6px;"><span class="text-sky">Humas dan Inventaris</span></h3>
           <p style="margin-bottom: 24px; color: var(--text-muted); font-size: 1.05rem;">
             Pintu koneksi eksternal, pusat publikasi kreatif, dan pemeliharaan rumah bersama IMATIKA.
           </p>
 
           <div class="cards-grid" style="grid-template-columns: repeat(3, 1fr);">
             <div class="card division-card">
-              <h4 style="color: var(--imatika-sky); font-size: 1.15rem;"><span class="badge badge-sky">Divisi 1</span> Divisi Humas</h4>
+              <h4 style="color: var(--imatika-sky); font-size: 1.15rem;">Divisi Humas</h4>
               <p style="color: var(--text-main); font-weight: 600; margin-bottom: 6px;">Program: STUBAN</p>
               <ul>
                 <li>Studi banding ke himpunan IT universitas lain untuk bertukar gagasan program.</li>
-                <li>Kunjungan industri teknologi ke software house dan startup tech terkemuka.</li>
               </ul>
             </div>
 
             <div class="card division-card gold-border">
-              <h4 style="color: var(--imatika-gold); font-size: 1.15rem;"><span class="badge badge-gold">Divisi 2</span> Media Kreatif</h4>
+              <h4 style="color: var(--imatika-gold); font-size: 1.15rem;">Divisi Media Kreatif</h4>
               <p style="color: var(--text-main); font-weight: 600; margin-bottom: 6px;">Program: Publikasi & Konten</p>
               <ul>
                 <li>Pengelolaan feed visual media sosial resmi dan saluran informasi informatika.</li>
@@ -375,8 +374,8 @@ public:
             </div>
 
             <div class="card division-card navy-border">
-              <h4 style="color: #ffffff; font-size: 1.15rem;"><span class="badge badge-navy">Divisi 3</span> Inventaris</h4>
-              <p style="color: var(--text-main); font-weight: 600; margin-bottom: 6px;">Program: Sarana & Gedung</p>
+              <h4 style="color: #ffffff; font-size: 1.15rem;">Divisi Inventaris</h4>
+              <p style="color: var(--text-main); font-weight: 600; margin-bottom: 6px;">Program: Sarana & Ruangan</p>
               <ul>
                 <li>Pengelolaan aset, logistik kegiatan, dan pemeliharaan fasilitas organisasi.</li>
                 <li>Menjaga sekretariat IMATIKA tetap nyaman untuk tempat singgah dan diskusi mahasiswa.</li>
@@ -421,7 +420,7 @@ public:
               </a>
             </div>
             <p style="margin-top: 14px; font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0;">
-              Pusat informasi resmi kegiatan mahasiswa, beasiswa, materi tutorial, dan kepanitiaan.
+              Pusat informasi resmi akademik, kegiatan mahasiswa, kepanitiaan, serta berita terkini.
             </p>
           </div>
         </div>
