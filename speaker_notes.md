@@ -53,7 +53,7 @@ Panduan naskah wicara kata-demi-kata (speech transcript), alokasi waktu, cue key
 
   Pertama-tama, saya mewakili seluruh keluarga besar IMATIKA mengucapkan selamat atas keberhasilan teman-teman semua. Kalian telah melewati proses seleksi panjang hingga hari ini resmi duduk di bangku perguruan tinggi. Ini langkah awal yang patut kalian syukuri dan banggakan.
 
-  Perkenalkan, nama saya [Sebutkan Nama Presenter], mahasiswa Teknik Informatika dan pengurus IMATIKA FT-KMUP. Pada sesi pagi ini, selama dua puluh menit ke depan, kita akan berkenalan santai dengan himpunan mahasiswa program studi kalian. Kita akan melihat bagaimana wadah ini mendampingi langkah kalian belajar, berorganisasi, dan berkarya selama masa perkuliahan nanti. Mari kita mulai perjalanan ini bersama-sama."
+  Perkenalkan, nama saya [Sebutkan Nama Presenter], mahasiswa Teknik Informatika dan pengurus IMATIKA FT-KMUP. Pagi ini kita akan ngobrol santai soal himpunan kita, dan melihat gimana wadah ini bisa jadi teman kalian belajar dan berorganisasi nanti."
 - **Cue Keyboard**: `[Tekan Spasi untuk berpindah ke Slide 2]`
 
 ---
@@ -100,9 +100,9 @@ Panduan naskah wicara kata-demi-kata (speech transcript), alokasi waktu, cue key
   - Gunakan nada bicara yang peduli, serius namun tetap ramah. Berikan penekanan pada advokasi fasilitas lab dan hak bersuara mahasiswa IT.
   - Buat jeda sejenak di antara ketiga poin utama agar materi terserap dengan jelas.
 - **Naskah Wicara (Kata demi Kata)**:
-  "Teman-teman angkatan 2026, kehidupan perkuliahan di jurusan IT memiliki warna yang khas. Kalian akan banyak berinteraksi dengan baris kode program, praktikum di laboratorium komputer, dan serangkaian tugas proyek. Namun, aktivitas di jurusan IT jauh melampaui urusan duduk di depan layar komputer.
-
-  IMATIKA hadir menyediakan ruang yang aman dan terbuka bagi setiap mahasiswa IT untuk bersuara dan berkembang secara utuh. Ada tiga peran utama yang kami jalankan:
+  "Teman-teman angkatan 2026, di jurusan IT, selain ngoding dan kuliah di lab, kita juga menghadapi kendala fasilitas, urusan nilai, dan butuh tempat menyampaikan aspirasi.
+  
+  IMATIKA hadir menyediakan wadah langsung buat teman-teman mahasiswa IT. Ada tiga peran utama kami:
 
   Pertama, Advokasi dan Fasilitas Lab. Sebagai mahasiswa IT, kelancaran praktikum laboratorium dan ketersediaan sarana komputer adalah kebutuhan utama kalian. Apabila komputer di lab mengalami kendala, lisensi software praktikum belum terpasang, atau kalian menemui kesulitan terkait jadwal praktikum dan kebijakan perkuliahan, sampaikan kepada kami. IMATIKA menjembatani aspirasi tersebut langsung ke program studi dan pimpinan fakultas agar segera mendapatkan solusi terbaik.
 
@@ -140,7 +140,7 @@ Panduan naskah wicara kata-demi-kata (speech transcript), alokasi waktu, cue key
   [Tekan Spasi: Highlight Baris 27-32, Bidang IV Humas dan Inventaris]
   Terakhir, pada baris 27 sampai 32, kita memiliki Bidang IV, Humas dan Inventaris. Bidang ini memuat Divisi Humas untuk studi banding dan relasi luar kampus, Divisi Media Kreatif untuk publikasi konten digital, serta Divisi Inventaris untuk pengelolaan sarana dan ruang sekretariat.
 
-  Sekarang, mari kita bedah rincian program kerja dari setiap bidang secara lebih mendalam."
+  Berikutnya, kita lihat program kerja dari tiap bidang."
 - **Cue Keyboard**: `[Tekan Spasi untuk berpindah ke Slide 6]`
 
 ---
@@ -153,9 +153,9 @@ Panduan naskah wicara kata-demi-kata (speech transcript), alokasi waktu, cue key
   - Gunakan nada artikulatif dan berbobot saat menjelaskan workshop koding.
   - Tekankan pentingnya perpaduan antara kemampuan teknis pemrograman dan kepemimpinan tim.
 - **Naskah Wicara (Kata demi Kata)**:
-  "Kita awali penelusuran bidang dari Bidang I: Pendidikan dan Penelitian. Bidang ini mengawal dua pilar penting bagi mahasiswa IT: keahlian teknis pemrograman dan kecakapan berorganisasi.
-
-  Di kolom kiri, kita memiliki Divisi Penelitian dengan program unggulan bernama Techno IT. Melalui Techno IT, kita menyelenggarakan workshop teknologi terkini di luar silabus kuliah reguler, seperti pemrograman web modern, pembuatan aplikasi mobile, komputasi awan, hingga dasar kecerdasan buatan. Divisi Penelitian juga menyediakan klinik koding untuk mendampingi rekan-rekan yang memerlukan bimbingan tambahan dalam praktikum lab, sekaligus wadah persiapan bagi mahasiswa yang ingin berlaga di kompetisi IT nasional.
+  "Kita mulai dari Bidang I: Pendidikan dan Penelitian. Bidang ini mengurus dua hal penting buat mahasiswa IT: keahlian koding dan organisasi.
+  
+  Di divisi Penelitian, kita punya program Techno IT. Di sini kita ngadain workshop teknologi di luar kelas, kayak web, mobile, cloud, dan AI. Kita juga buka klinik koding buat nemenin kalian yang butuh bimbingan praktikum lab, serta siapin wadah buat yang mau ikut lomba IT nasional.
 
   Di kolom kanan, terdapat Divisi Pengajaran dan Kaderisasi dengan program andalan Kelas Organisasi. Keterampilan teknis koding kalian akan semakin berlipat nilainya bila diimbangi kemampuan komunikasi dan kepemimpinan tim. Melalui Kelas Organisasi, kalian dibekali cara mengelola rapat kerja, teknik persidangan mahasiswa, tata cara menyusun musyawarah mufakat, serta etika berorganisasi yang sehat. Bekal ini akan sangat berharga baik di kampus maupun saat kalian memasuki industri profesional nanti."
 - **Cue Keyboard**: `[Tekan Spasi untuk berpindah ke Slide 7]`
@@ -170,7 +170,7 @@ Panduan naskah wicara kata-demi-kata (speech transcript), alokasi waktu, cue key
   - Tampilkan ekspresi ceria, santai, dan penuh energi.
   - Lakukan kontak mata interaktif saat menyebut turnamen futsal dan cabang game e-sports.
 - **Naskah Wicara (Kata demi Kata)**:
-  "Selanjutnya kita beralih ke Bidang II: Minat, Bakat, dan Potensi Mahasiswa. Menjaga keseimbangan ritme hidup selama masa kuliah sangat penting. Setelah seharian berkutat membedah logika pemrograman di depan monitor, kebugaran fisik dan kesegaran pikiran kita perlu dijaga.
+  "Selanjutnya kita beralih ke Bidang II: Minat, Bakat, dan Potensi Mahasiswa. Buat ngimbangi padatnya jadwal ngoding, kita juga punya banyak kegiatan seru kayak futsal bareng, mabar e-sports, dan turnamen POSITIF.
 
   Divisi Olahraga hadir dengan program tahunan kebanggaan kita, yaitu POSITIF, singkatan dari Pekan Olahraga Mahasiswa Teknik Informatika. Ini adalah ajang turnamen olahraga antar-angkatan di jurusan kita yang melombakan cabang futsal, bola basket, bulu tangkis, dan catur. Melalui POSITIF, kita melepaskan penat jadwal kuliah sekaligus mempererat sportivitas dan keakraban lintas angkatan.
 
@@ -187,7 +187,7 @@ Panduan naskah wicara kata-demi-kata (speech transcript), alokasi waktu, cue key
   - Nada suara lebih hangat, santun, dan penuh rasa empati.
   - Tangan di dada sejenak saat menyampaikan pesan kepedulian kepada masyarakat sekitar.
 - **Naskah Wicara (Kata demi Kata)**:
-  "Kita melangkah ke Bidang III: Kesejahteraan Mahasiswa dan Kepedulian Sosial. Ilmu komputer yang kita pelajari di ruang kuliah akan terasa jauh lebih bernilai saat mampu memberikan manfaat nyata bagi masyarakat di sekitar kita.
+  "Kita melangkah ke Bidang III: Kesejahteraan Mahasiswa dan Kepedulian Sosial. Di bidang ini kita punya kegiatan sosial dari mahasiswa IT ke warga sekitar, serta acara kumpul keluarga seperti buka puasa bersama lintas angkatan saat Ramadan.
 
   Divisi Sosial mewujudkan hal tersebut melalui program rutin Pengabdian Masyarakat. Rekan-rekan mahasiswa IT terjun langsung berbagi ilmu, misalnya mengajar literasi digital dasar dan pengenalan perangkat komputer untuk anak-anak sekolah di sekitar lingkungan kampus, memberikan penyuluhan internet aman, serta mengoordinasikan aksi kemanusiaan dan penggalangan dana saat terjadi bencana sosial.
 
@@ -247,9 +247,9 @@ Panduan naskah wicara kata-demi-kata (speech transcript), alokasi waktu, cue key
 - **Naskah Wicara (Kata demi Kata)**:
   "Teman-teman mahasiswa baru Teknik Informatika angkatan 2026, sekretariat kami di Gedung IMATIKA FT-KMUP selalu terbuka bagi kalian. Kapan pun kalian ingin berdiskusi santai mengenai materi kuliah, meminta panduan seputar praktikum, atau sekadar ingin saling menyapa dengan kakak tingkat, silakan singgah.
 
-  Sekali lagi, selamat datang di Fakultas Teknik Universitas Pancasila. Selamat mengawali perjalanan akademik kalian, bertumbuhlah dengan penuh rasa ingin tahu, dan mari kita rawat kebersamaan ini sebagai satu keluarga besar.
-
-  Kini kita masuki sesi tanya jawab santai. Bagi rekan-rekan yang ingin menanyakan apa pun terkait perkuliahan, tips menghadapi semester awal, fasilitas laboratorium, maupun kegiatan IMATIKA, silakan angkat tangan kalian. Terima kasih banyak atas perhatian dan antusiasme luar biasa teman-teman semua."
+  Sekali lagi, selamat datang di Fakultas Teknik Universitas Pancasila. Selamat mengawali perjalanan kuliah kalian, dan mari kita rawat kebersamaan ini.
+  
+  Sekarang kita buka sesi tanya jawab santai. Kalau ada yang mau ditanya soal perkuliahan, tips semester awal, fasilitas, atau tentang IMATIKA, silakan angkat tangan. Terima kasih atas antusiasmenya!"
 - **Cue Sesi**: `[Presenter memandang audiens, menyambut penanya pertama, dan memandu forum diskusi interaktif hingga selesai]`
 
 ---
