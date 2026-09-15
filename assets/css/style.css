@@ -83,66 +83,22 @@
 }
 
 /* ==========================================================================
-   Fixed Corner Logos (UP top-right, IMATIKA top-left)
+   Slide Header & Corner Logos
    ========================================================================== */
 
-.fixed-logos {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  width: 100vw;
-  height: 100vh;
-  pointer-events: none;
-  z-index: 99;
+.slide-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 20px;
 }
 
-.corner-logo {
-  position: absolute;
-  top: 24px;
+.slide-header .logo-corner-left,
+.slide-header .logo-corner-right {
   height: 48px;
   width: auto;
   object-fit: contain;
-  opacity: 0.9;
-  filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.4));
-  transition: opacity 0.3s ease, transform 0.3s ease;
-  pointer-events: auto;
-}
-
-.corner-logo:hover {
-  opacity: 1;
-  transform: scale(1.05);
-}
-
-.corner-logo.top-left,
-.logo-imatika-corner,
-.corner-logo-tl {
-  left: 32px;
-}
-
-.corner-logo.top-right,
-.logo-up-corner,
-.corner-logo-tr {
-  right: 32px;
-}
-
-/* Reveal header/footer container support */
-.reveal .corner-logo-tl,
-.reveal .logo-imatika {
-  position: fixed;
-  top: 24px;
-  left: 32px;
-  height: 48px;
-  z-index: 100;
-}
-
-.reveal .corner-logo-tr,
-.reveal .logo-up {
-  position: fixed;
-  top: 24px;
-  right: 32px;
-  height: 48px;
-  z-index: 100;
 }
 
 /* ==========================================================================
