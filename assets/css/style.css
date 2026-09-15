@@ -434,3 +434,25 @@
   color: #ffffff;
   border: 1px solid rgba(56, 189, 248, 0.2);
 }
+
+/* ==========================================================================
+   Print / PDF Export Enhancements
+   ========================================================================== */
+@media print {
+  body, .reveal-viewport, .reveal {
+    background-color: #0b0f19 !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+  .reveal .slides section {
+    background-color: #0b0f19 !important;
+  }
+  .slide-header {
+    display: flex !important;
+    position: absolute !important;
+    top: 20px !important;
+    left: 20px !important;
+    right: 20px !important;
+  }
+}
+
